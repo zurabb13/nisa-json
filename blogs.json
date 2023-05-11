@@ -1,177 +1,176 @@
- [
-    {
-      "id": 1,
-      "img": "assets/img/blog/blog-3.png",
-      "text": "How marketing can help your business more than anything.",
-      "header": "Customisation means you can totally own the design",
-      "stories": "stories",
-      "category": "stories",
-      "data": "Apr 5. 2022 | 4 MIN READ",
-      "body": "Build a website that delivers beauty and function.",
-      "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
-      "story": "Tell your story today, not next week.",
-      "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
-      "img-2": "assets/img/blog",
-      "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
-      "user": [
-        {
-          "img": "assets/img/client/client-1.png",
-          "name": "zura baramia",
-          "title": "Founder @ Mailchimp",
-          "text": "Build a website that delivers beauty and function.",
-          "social": [
-            { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
-            { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
-            { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
-            { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "img": "assets/img/blog/blog-2.png",
-      "text": "How marketing can help your business more than anything.",
-      "header": "Customisation means you can totally own the design",
-      "stories": "stories",
-      "category": "design",
-      "data": "June 21. 2022 | 4 MIN READ",
-      "body": "Build a website that delivers beauty and function.",
-      "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
-      "story": "Tell your story today, not next week.",
-      "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
-      "img-2": "assets/img/blog",
-      "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
-      "user": [
-        {
-          "img": "assets/img/client/client-2.png",
-          "name": "zura baramia",
-          "title": "Founder @ Mailchimp",
-          "text": "Build a website that delivers beauty and function.",
-          "social": [
-            { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
-            { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
-            { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
-            { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "img": "assets/img/blog/blog-3.png",
-      "text": "How marketing can help your business more than anything.",
-      "header": "Customisation means you can totally own the design",
-      "stories": "stories",
-      "category": "technology",
-      "data": "Jan 3. 2022 | 4 MIN READ",
-      "body": "Build a website that delivers beauty and function.",
-      "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
-      "story": "Tell your story today, not next week.",
-      "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
-      "img-2": "assets/img/blog",
-      "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
-      "user": [
-        {
-          "img": "assets/img/client/client-1.png",
-          "name": "zura baramia",
-          "title": "Founder @ Mailchimp",
-          "text": "Build a website that delivers beauty and function.",
-          "social": [
-            { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
-            { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
-            { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
-            { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "img": "assets/img/blog/image-4.png",
-      "text": "How marketing can help your business more than anything.",
-      "header": "Customisation means you can totally own the design",
-      "stories": "stories",
-      "category": "technology",
-      "data": "May 5. 2022 | 4 MIN READ",
-      "body": "Build a website that delivers beauty and function.",
-      "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
-      "story": "Tell your story today, not next week.",
-      "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
-      "img-2": "assets/img/blog",
-      "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
-      "user": [
-        {
-          "img": "assets/img/client/client-3.png",
-          "name": "zura baramia",
-          "title": "Founder @ Mailchimp",
-          "text": "Build a website that delivers beauty and function.",
-          "social": [
-            { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
-            { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
-            { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
-            { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "img": "assets/img/blog/image-5.png",
-      "text": "How marketing can help your business more than anything.",
-      "header": "Customisation means you can totally own the design",
-      "stories": "stories",
-      "category": "technology",
-      "data": "May 5. 2022 | 4 MIN READ",
-      "body": "Build a website that delivers beauty and function.",
-      "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
-      "story": "Tell your story today, not next week.",
-      "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
-      "img-2": "assets/img/blog",
-      "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
-      "user": [
-        {
-          "img": "assets/img/client/client-2.png",
-          "name": "zura baramia",
-          "title": "Founder @ Mailchimp",
-          "text": "Build a website that delivers beauty and function.",
-          "social": [
-            { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
-            { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
-            { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
-            { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "img": "assets/img/blog/image-6.png",
-      "text": "How marketing can help your business more than anything.",
-      "header": "Customisation means you can totally own the design",
-      "stories": "stories",
-      "category": "technology",
-      "data": "May 5. 2022 | 4 MIN READ",
-      "body": "Build a website that delivers beauty and function.",
-      "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
-      "story": "Tell your story today, not next week.",
-      "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
-      "img-2": "assets/img/blog",
-      "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
-      "user": [
-        {
-          "img": "assets/img/client/client-2.png",
-          "name": "zura baramia",
-          "title": "Founder @ Mailchimp",
-          "text": "Build a website that delivers beauty and function.",
-          "social": [
-            { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
-            { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
-            { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
-            { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
-          ]
-        }
-      ]
-    }
-   ]
-
+[
+  {
+    "id": 1,
+    "img": "assets/img/blog/blog-3.webp",
+    "text": "How marketing can help your business more than anything.",
+    "header": "Customisation means you can totally own the design",
+    "stories": "stories",
+    "category": "stories",
+    "data": "Apr 5. 2022 | 4 MIN READ",
+    "body": "Build a website that delivers beauty and function.",
+    "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "story": "Tell your story today, not next week.",
+    "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
+    "img-2": "assets/img/blog",
+    "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
+    "user": [
+      {
+        "img": "assets/img/client/client-1.webp",
+        "name": "Nicola Smith",
+        "title": "Founder @ Mailchimp",
+        "text": "Build a website that delivers beauty and function.",
+        "social": [
+          { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
+          { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
+          { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
+          { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "assets/img/blog/blog-2.webp",
+    "text": "How marketing can help your business more than anything.",
+    "header": "Customisation means you can totally own the design",
+    "stories": "stories",
+    "category": "design",
+    "data": "June 21. 2022 | 4 MIN READ",
+    "body": "Build a website that delivers beauty and function.",
+    "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "story": "Tell your story today, not next week.",
+    "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
+    "img-2": "assets/img/blog",
+    "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
+    "user": [
+      {
+        "img": "assets/img/client/client-2.webp",
+        "name": "Nicola Smith",
+        "title": "Founder @ Mailchimp",
+        "text": "Build a website that delivers beauty and function.",
+        "social": [
+          { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
+          { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
+          { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
+          { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "assets/img/blog/blog-3.webp",
+    "text": "How marketing can help your business more than anything.",
+    "header": "Customisation means you can totally own the design",
+    "stories": "stories",
+    "category": "technology",
+    "data": "Jan 3. 2022 | 4 MIN READ",
+    "body": "Build a website that delivers beauty and function.",
+    "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "story": "Tell your story today, not next week.",
+    "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
+    "img-2": "assets/img/blog",
+    "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
+    "user": [
+      {
+        "img": "assets/img/client/client-1.webp",
+        "name": "Nicola Smith",
+        "title": "Founder @ Mailchimp",
+        "text": "Build a website that delivers beauty and function.",
+        "social": [
+          { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
+          { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
+          { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
+          { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "assets/img/blog/image-4.webp",
+    "text": "How marketing can help your business more than anything.",
+    "header": "Customisation means you can totally own the design",
+    "stories": "stories",
+    "category": "technology",
+    "data": "May 5. 2022 | 4 MIN READ",
+    "body": "Build a website that delivers beauty and function.",
+    "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "story": "Tell your story today, not next week.",
+    "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
+    "img-2": "assets/img/blog",
+    "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
+    "user": [
+      {
+        "img": "assets/img/client/client-3.webp",
+        "name": "Nicola Smith",
+        "title": "Founder @ Mailchimp",
+        "text": "Build a website that delivers beauty and function.",
+        "social": [
+          { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
+          { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
+          { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
+          { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "assets/img/blog/image-5.webp",
+    "text": "How marketing can help your business more than anything.",
+    "header": "Customisation means you can totally own the design",
+    "stories": "stories",
+    "category": "technology",
+    "data": "May 5. 2022 | 4 MIN READ",
+    "body": "Build a website that delivers beauty and function.",
+    "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "story": "Tell your story today, not next week.",
+    "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
+    "img-2": "assets/img/blog",
+    "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
+    "user": [
+      {
+        "img": "assets/img/client/client-2.webp",
+        "name": "Nicola Smith",
+        "title": "Founder @ Mailchimp",
+        "text": "Build a website that delivers beauty and function.",
+        "social": [
+          { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
+          { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
+          { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
+          { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "assets/img/blog/image-6.webp",
+    "text": "How marketing can help your business more than anything.",
+    "header": "Customisation means you can totally own the design",
+    "stories": "stories",
+    "category": "technology",
+    "data": "May 5. 2022 | 4 MIN READ",
+    "body": "Build a website that delivers beauty and function.",
+    "bodyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "story": "Tell your story today, not next week.",
+    "storyText2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molesti,  vitae maximus nunc semper.Lorem ipsum dolor sit amet.",
+    "img-2": "assets/img/blog",
+    "footer": "Integer dictum quam vel dui dignissim interdum a nec tortor. In et nisl bibendum, scelerisque est sed, pellentesque tellus. Vestibulum dapibus, sapien et gravida sodales, lectus neque interdum nisl, fermentum fermentum orci mauris nec est. Sed bibendum libero a est lobortis dignissim. Sed vitae bibendum mi. Ut ut lobortis risus, ac auctor quam.",
+    "user": [
+      {
+        "img": "assets/img/client/client-2.webp",
+        "name": "Nicola Smith",
+        "title": "Founder @ Mailchimp",
+        "text": "Build a website that delivers beauty and function.",
+        "social": [
+          { "link": "twitter.com", "icon": "assets/img/icon/twiter.svg" },
+          { "link": "facebook.com", "icon": "assets/img/icon/facebook.svg" },
+          { "link": "linkedin.com", "icon": "assets/img/icon/linkedin.svg" },
+          { "link": "pinterest.com", "icon": "assets/img/icon/pinterest.svg" }
+        ]
+      }
+    ]
+  }
+]
